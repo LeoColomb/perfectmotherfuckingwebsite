@@ -4,15 +4,15 @@ And it's _really_ more fucking perfect than the last guy's.
 
 ## Seriously, some minimal fucking things are needed to make this shit perfect.
 
-7 fucking declarations.
+**6 fucking declarations and one attribute.**
 
-That's how much CSS it took to turn that [grotesque pile of shit](http://motherfuckingwebsite.com/) into this easy-to-read masterpiece. It's so fucking simple and it still has all the glory of the original perfect-ass website:
+That's how much CSS an HTML it took to turn that [grotesque pile of shit](http://motherfuckingwebsite.com/) into this finally perfetc masterpiece. It's so fucking simple and it still has all the glory of the original perfect-ass website:
 
 * Shit's _finnaly_ lightweight and loads fast ;
 * _Finnaly_ fits on all your shitty screens ;
 * _Finnaly_ looks the same in all your shitty browsers ;
-* The motherfucker's still accessible to every asshole that visits your site ;
-* Shit's still legible and gets your fucking point across.
+* The motherfucker's _still_ accessible to every asshole that visits your site ;
+* Shit's _still_ legible and gets your fucking point across.
 
 ### And guess what, motherfucker:
 
