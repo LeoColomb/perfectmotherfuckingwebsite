@@ -32,7 +32,7 @@ And did you let browser choose the font? Don't make me read such text with _Time
 ## License, motherfucker
 
 Have you published a fucking patent? No. So you must [choose a fucking license](https://choosealicense.com/).
-And you're never perfect, so let other [improve your shit](https://github.com/LeoColomb/perfectmotherfuckingwebsite) or [Do What The F\*ck You Want To](https://github.com/LeoColomb/perfectmotherfuckingwebsite/blob/master/LICENSE).
+And you're never perfect, so let other [improve your shit](https://github.com/LeoColomb/perfectmotherfuckingwebsite) or [do what the f\*ck they want to](https://github.com/LeoColomb/perfectmotherfuckingwebsite/blob/master/LICENSE).
 
 ## Yes, this is the last fucking satire, you fuck
 
