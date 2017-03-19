@@ -31,8 +31,8 @@ And did you let browser choose the font? Don't make me read such text with _Time
 
 ## License, motherfucker
 
-Do you revendicate intellectual property? No. So you must [choose a fucking public license](https://choosealicense.com/).
-And as you're never perfect, let other [improve your shit](https://github.com/LeoColomb/perfectmotherfuckingwebsite) or [do what the f\*ck they want to](https://github.com/LeoColomb/perfectmotherfuckingwebsite/blob/master/LICENSE).
+Do you revendicate intellectual property? No. So you must [choose a fucking public license](https://choosealicense.com/).  
+And as you'll never be perfect, let other [improve your shit](https://github.com/LeoColomb/perfectmotherfuckingwebsite) or [do what the f\*ck they want to](https://github.com/LeoColomb/perfectmotherfuckingwebsite/blob/master/LICENSE).
 
 ## Yes, this is the last fucking satire, you fuck
 
