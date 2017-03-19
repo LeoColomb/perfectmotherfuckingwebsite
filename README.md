@@ -1,3 +1,7 @@
+---
+title: Perfect Motherfucking Website
+---
+
 # This is the _final_ motherfucking website.
 
 And it's _really_ more fucking perfect than the last guy's.
