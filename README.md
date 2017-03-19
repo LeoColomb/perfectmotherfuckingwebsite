@@ -6,7 +6,7 @@ And it's _really_ more fucking perfect than the last guy's.
 
 **6 fucking declarations and one attribute.**
 
-That's how much CSS an HTML it took to turn that [grotesque pile of shit](http://motherfuckingwebsite.com/) into this finally perfetc masterpiece. It's so fucking simple and it still has all the glory of the original perfect-ass website:
+That's how much CSS and HTML it took to turn that [grotesque pile of shit](http://motherfuckingwebsite.com/) into this finally perfetc masterpiece. It's so fucking simple and it still has all the glory of the original perfect-ass website:
 
 * Shit's _finnaly_ lightweight and loads fast;
 * _Finnaly_ fits on all your shitty screens;
@@ -31,8 +31,8 @@ And did you let browser choose the font? Don't make me read such text with _Time
 
 ## License, motherfucker
 
-Have you published a fucking patent? No. So you must [choose a fucking license](https://choosealicense.com/).
-And you're never perfect, so let other [improve your shit](https://github.com/LeoColomb/perfectmotherfuckingwebsite) or [do what the f\*ck they want to](https://github.com/LeoColomb/perfectmotherfuckingwebsite/blob/master/LICENSE).
+Do you revendicate intellectual property? No. So you must [choose a fucking public license](https://choosealicense.com/).
+And as you're never perfect, let other [improve your shit](https://github.com/LeoColomb/perfectmotherfuckingwebsite) or [do what the f\*ck they want to](https://github.com/LeoColomb/perfectmotherfuckingwebsite/blob/master/LICENSE).
 
 ## Yes, this is the last fucking satire, you fuck
 
