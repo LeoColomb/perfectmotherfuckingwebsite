@@ -39,7 +39,7 @@ And you're never perfect, so let other [improve your shit](https://github.com/Le
 I'm impressed about what the creator of [this site's inspiration did](http://bettermotherfuckingwebsite.com/). What I'm saying is that it's so, so simple to make sites easier to read. Websites are broken by default, they are functional, high-performing, and accessible, but they're also fucking ugly. You and all the other web designers out there need to make them not total shit.
 
 > "Don't ignore stupid things or you will stay at the motherfucker level." 
-> - Brad Hollande
+> — Brad Hollande
 
 ---
 
