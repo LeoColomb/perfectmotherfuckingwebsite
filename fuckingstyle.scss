@@ -1,0 +1,30 @@
+---
+---
+
+body {
+  margin: 40px auto;
+  max-width: 650px;
+  line-height: 1.5;
+  font-size: 18px;
+  font-family: -apple-system, BlinkMacSystemFont, /* MacOS and iOS */
+               'avenir next', avenir, /* MacOS and iOS */
+               'Segoe UI', /* Windows */
+               'lucida grande', /* Older MacOS */
+               'helvetica neue', helvetica, /* Older MacOS */
+               'Fira Sans', /* Firefox OS */
+               roboto, noto, /* Google stuff */
+               'Droid Sans', /* Old Google stuff */
+               cantarell, oxygen, ubuntu, /* Linux stuff */
+               'franklin gothic medium', 'century gothic', /* Windows stuff */
+               'Liberation Sans', /* Linux */
+               sans-serif; /* Everything else */;
+  color: #444;
+  padding: 0 10px;
+}
+  
+h1,
+h2,
+h3 {
+  line-height:1.2;
+}
+  
