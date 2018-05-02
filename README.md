@@ -22,7 +22,7 @@ You never knew it, but it's easy to improve reliability on your site. Here's how
 
 I know you love marginalisation, but you shoud take care of people.
 The <abbr title="HyperText Markup Language">HTML</abbr> tag doesn't include the [`lang` attribute](https://www.w3.org/TR/html5/dom.html#the-lang-and-xml:lang-attributes) in your shitty webpage.  
-You ever listen to a [wrong language screen reader lecture](https://vid.me/MRMw)? What a shitty experience.
+You ever listen to a [wrong language screen reader lecture](https://www.youtube.com/watch?v=NP94u7y_KkQ)? What a shitty experience.
 
 ## Typography matters
 
