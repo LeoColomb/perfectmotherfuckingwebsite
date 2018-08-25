@@ -20,7 +20,7 @@ You never knew it, but it's easy to improve reliability on your site. Here's how
 
 ## A little more accessibility
 
-I know you love marginalisation, but you shoud take care of people.
+I know you love marginalization, but you should take care of people.
 The <abbr title="HyperText Markup Language">HTML</abbr> tag doesn't include the [`lang` attribute](https://www.w3.org/TR/html5/dom.html#the-lang-and-xml:lang-attributes) in your shitty webpage.  
 You ever listen to a [wrong language screen reader lecture](https://www.youtube.com/watch?v=NP94u7y_KkQ)? What a shitty experience.
 
