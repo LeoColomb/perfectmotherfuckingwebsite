@@ -45,6 +45,6 @@ I'm impressed about what the creator of [this site's inspiration did](http://bet
 
 ## Epilogue
 
-Inspired by the geniuses behind [motherfuckingwebsite.com](http://motherfuckingwebsite.com/) and [bettermotherfuckingwebsite.com](http://bettermotherfuckingwebsite.com/).
+Inspired by the geniuses behind [motherfuckingwebsite.com](https://motherfuckingwebsite.com/) and [bettermotherfuckingwebsite.com](http://bettermotherfuckingwebsite.com/).
 
 This page—that isn't a total fucking content—was licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
