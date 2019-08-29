@@ -26,3 +26,15 @@ h3 {
   line-height:1.2;
 }
   
+@media (prefers-color-scheme: dark) {
+  body {
+    color: white;
+    background: #444;
+  }
+  a:link {
+    color: #5bf;
+  }
+  a:visited {
+    color: #ccf;
+  }
+}
