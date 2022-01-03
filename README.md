@@ -33,7 +33,7 @@ And did you let the browser choose the font? Don't make me read such text with _
 ## License, motherfucker
 
 Do you revendicate intellectual property? No. So you must [choose a fucking public license](https://choosealicense.com/).  
-And as you'll never be perfect, let others [improve your shit](https://github.com/LeoColomb/perfectmotherfuckingwebsite) or [do what the fuck they want to](https://github.com/LeoColomb/perfectmotherfuckingwebsite/blob/master/LICENSE).
+And as you'll never be perfect, let others [improve your shit](https://github.com/LeoColomb/perfectmotherfuckingwebsite) or [do what the fuck they want to](https://github.com/LeoColomb/perfectmotherfuckingwebsite/blob/main/LICENSE).
 
 ## Yes, this is the last fucking satire, you fuck
 
