@@ -6,7 +6,7 @@ And it's _really_ more fucking perfect than the last guy's.
 
 **Ten fucking declarations, an `@media` block, and one attribute.**
 
-That's how much CSS and HTML it took to turn that [grotesque pile of shit](http://motherfuckingwebsite.com/) into this finally perfect masterpiece. It's so fucking simple and it still has all the glory of the original perfect-ass website:
+That's how much CSS and HTML it took to turn that [grotesque pile of shit](https://motherfuckingwebsite.com/) into this finally perfect masterpiece. It's so fucking simple and it still has all the glory of the original perfect-ass website:
 
 * Shit's _finally_ lightweight and loads fast;
 * _Finally_ fits on all your shitty screens;
@@ -27,7 +27,7 @@ You ever listen to a [wrong language screen reader lecture](https://www.youtube.
 
 ## Typography matters
 
-[Don't be dumb with typography](http://smartquotesforsmartpeople.com/). Don't let improper marks and quotes make their way onto websites because of dumb defaults in applications and CMSs.  
+[Don't be dumb with typography](https://smartquotesforsmartpeople.com/). Don't let improper marks and quotes make their way onto websites because of dumb defaults in applications and CMSs.  
 And did you let the browser choose the font? Don't make me read such text with _Times New Roman_.
 
 ## License, motherfucker
