@@ -4,7 +4,7 @@ And it's _really_ more fucking perfect than the last guy's.
 
 ## Seriously, some minimal fucking things are needed to make this shit perfect.
 
-**Ten fucking declarations, an `@media` block, and one attribute.**
+**Ten fucking declarations, a `@media` block, and one attribute.**
 
 That's how much CSS and HTML it took to turn that [grotesque pile of shit](https://motherfuckingwebsite.com/) into this finally perfect masterpiece. It's so fucking simple and it still has all the glory of the original perfect-ass website:
 
