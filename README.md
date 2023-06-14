@@ -6,7 +6,7 @@ And it's _really_ more fucking perfect than the last guy's.
 
 **Ten fucking declarations, a `@media` block, and one attribute.**
 
-That's how much CSS and HTML it took to turn that [grotesque pile of shit](https://motherfuckingwebsite.com/) into this finally perfect masterpiece. It's so fucking simple and it still has all the glory of the original perfect-ass website:
+That's how much CSS and HTML it took to turn that [grotesque pile of shit](https://web.archive.org/web/http://motherfuckingwebsite.com/) into this finally perfect masterpiece. It's so fucking simple and it still has all the glory of the original perfect-ass website:
 
 * Shit's _finally_ lightweight and loads fast;
 * _Finally_ fits on all your shitty screens;
@@ -46,6 +46,6 @@ I'm impressed about what the creator of [this site's inspiration did](http://bet
 
 ## Epilogue
 
-Inspired by the geniuses behind [motherfuckingwebsite.com](https://motherfuckingwebsite.com/) and [bettermotherfuckingwebsite.com](http://bettermotherfuckingwebsite.com/).
+Inspired by the geniuses behind [motherfuckingwebsite.com](https://web.archive.org/web/http://motherfuckingwebsite.com/) and [bettermotherfuckingwebsite.com](http://bettermotherfuckingwebsite.com/).
 
 This page—that isn't a total fucking content—was licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
