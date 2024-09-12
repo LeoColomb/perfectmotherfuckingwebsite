@@ -1,0 +1,17 @@
+# yamllint disable rule:document-start
+# https://docs.github.com/actions
+
+name: Auto-close
+
+on:
+  schedule:
+    - cron: '30 8 * * *'
+
+permissions:
+  issues: write
+  pull-requests: write
+
+jobs:
+  stale:
+    name: Stale
+    uses: LeoColomb/.github/.github/workflows/auto-close.yml@main
